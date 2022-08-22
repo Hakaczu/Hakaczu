@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif">
 
 <!--
 **Hakaczu/Hakaczu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
