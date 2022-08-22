@@ -1,5 +1,6 @@
-<img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif">
-
+<p align="center">
+<img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif" width=300px>
+</p>
 <!--
 **Hakaczu/Hakaczu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
